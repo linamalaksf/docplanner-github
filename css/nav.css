@@ -1,0 +1,33 @@
+.navigation{
+    height: 70px;
+    max-width: 975px;
+    padding: 0 20px;
+    margin: 0 auto;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-grow: 1;/*tedi le max de la barre de nav*/
+}
+
+
+#nav-log{
+    height:33px ;
+    width: 268;
+
+}
+.navitems{
+    list-style: none;
+    display: flex;
+   
+}
+.nav-item{
+    
+
+}
+.nav-link {
+    text-decoration: none;
+    padding: 0px 9px;
+    color: #ababab;
+   font-size: 15px;
+}
